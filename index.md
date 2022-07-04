@@ -1,8 +1,8 @@
 ## Welcome to My Pages
 
-You can use the [editor on GitHub](https://github.com/SouthBay1005/Xiangyi.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+My name is Xiangyi, 21 years old. I am currently studying for a Ph.D. at Nanjing University of Science and Technology,with a focus on information science.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am very interested in technology, if you are interested in c++, python programming, or are learning deep learning, we can communicate more. I'm trying to build a solid foundation in these areas and hope to do well during my Ph.D.
 
 ### Research Direction
 
